@@ -150,6 +150,6 @@ Do not auto-trigger these skills. Just mention them as suggestions.
 
 ## Related Skills
 
-- `meta-evolution:evolving-skills` -- Detects when skills need creating, improving, or retiring
-- `meta-evolution:evolving-agents` -- Detects when agents need creating, improving, or retiring
+- `evolving-skills` -- Detects when skills need creating, improving, or retiring
+- `evolving-agents` -- Detects when agents need creating, improving, or retiring
 - `revise-claude-md` (Native) -- Captures session-level learnings in CLAUDE.md (narrower scope, different trigger)
