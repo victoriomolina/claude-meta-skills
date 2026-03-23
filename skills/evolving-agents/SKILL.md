@@ -125,5 +125,5 @@ Wait for the user's explicit approval before taking any action.
 
 ## Related Skills
 
-- `meta-evolution:evolving-skills` -- Same evolution pattern, but for skill definitions
-- `meta-evolution:context-sync` -- Synchronizes context documents with recent codebase changes
+- `evolving-skills` -- Same evolution pattern, but for skill definitions
+- `context-sync` -- Synchronizes context documents with recent codebase changes
