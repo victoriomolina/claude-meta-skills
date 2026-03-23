@@ -118,6 +118,6 @@ Wait for the user's explicit approval before taking any action. If approved, del
 
 ## Related Skills
 
-- `meta-evolution:evolving-agents` -- Same evolution pattern, but for agent definitions
-- `meta-evolution:context-sync` -- Synchronizes context documents with recent codebase changes
+- `evolving-agents` -- Same evolution pattern, but for agent definitions
+- `context-sync` -- Synchronizes context documents with recent codebase changes
 - `skill-creator` (Native) -- Creates and edits skill files (use after this skill identifies the need)
